@@ -1,3 +1,16 @@
+Quick Run:
+
+Run Backend server at: https://github.com/cost0142/LawnStarter.git
+
+--> docker-compose up --build
+
+RN Mobile 
+
+a) npm install
+
+b) npx expo start
+
+
 2. Main Screens
 
 SearchScreen – same character name search.
@@ -43,5 +56,3 @@ Create a hook or function to record metrics using POST /api/metrics
 
 
 
-
-docker-compose up --build
